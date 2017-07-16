@@ -1,0 +1,27 @@
+ <style media="screen">
+         body{
+         max-width: 100%;
+         border: 3px inset #ddd;
+         border-radius: 0px;
+         width:430px;
+         max-width: 700px;
+         padding: 25px;
+         }
+         h1{
+         border: 1px none #ddd;
+         }    
+         img{
+         padding : 5px;
+         border: 0px outset #ddd;
+         border-radius: 0px;
+         width:800px;
+         max-width: 400px;
+         }
+         div  {
+         border: 1px outset #ddd;
+         border-radius: 0px;
+         width:600px;
+         max-width: 400px;
+         padding: 5px;
+         }
+      </style>
