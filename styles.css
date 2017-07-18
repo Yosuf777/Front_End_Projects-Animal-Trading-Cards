@@ -27,3 +27,9 @@ div {
   max-width: 400px;
   padding: 5px;
 }
+p {
+ font-style: italic;
+}
+li {
+    font-weight: bold;
+}
